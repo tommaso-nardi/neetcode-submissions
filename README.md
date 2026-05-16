@@ -1,6 +1,8 @@
 # NeetCode Solutions — @tommaso-nardi
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Some of these might be commented by me, some might not, will try to comment all of my submissions to explain the code
+> All comments will be in Italian
 
 ---
 
